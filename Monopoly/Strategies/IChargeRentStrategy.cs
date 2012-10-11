@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Monopoly.Board;
 using Monopoly.Board.Locations.Properties;
 
 namespace Monopoly.Strategies

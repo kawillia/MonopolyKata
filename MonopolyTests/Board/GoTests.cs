@@ -2,9 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Monopoly;
 using Monopoly.Board.Locations;
-using Monopoly.Board.Locations.Properties;
 using Monopoly.Classic;
-using Monopoly.Strategies;
 
 namespace MonopolyTests.Board.Locations
 {

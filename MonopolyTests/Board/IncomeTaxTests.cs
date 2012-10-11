@@ -1,8 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Monopoly.Board.Locations;
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Monopoly;
+using Monopoly.Board.Locations;
 using Monopoly.Classic;
-using System;
 
 namespace MonopolyTests.Board
 {

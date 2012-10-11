@@ -1,5 +1,4 @@
-﻿using Monopoly.Board;
-namespace Monopoly
+﻿namespace Monopoly
 {
     //public class NormalTurn : Turn
     //{

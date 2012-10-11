@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Monopoly.Board;
-
+﻿
 namespace Monopoly
 {
     //public class InJailTurn : Turn
